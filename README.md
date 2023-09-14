@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Gouge</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Front End Developer</h3>
 
 - 👨‍💻 Some of my projects are available at [https://maryg36.github.io/Portfolio/](https://maryg36.github.io/Portfolio/)
 
